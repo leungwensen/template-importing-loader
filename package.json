@@ -1,0 +1,32 @@
+{
+  "name": "template-importing-loader",
+  "version": "0.0.1",
+  "description": "webpack loader, adding `<import>` syntax for javascript templates (underscore template engine, etc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leungwensen/template-importing-loader.git"
+  },
+  "keywords": [
+    "import",
+    "template",
+    "template engine",
+    "template importing",
+    "webpack",
+    "webpack loader",
+    "module"
+  ],
+  "author": "leungwensen@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leungwensen/template-importing-loader/issues"
+  },
+  "homepage": "https://github.com/leungwensen/template-importing-loader#readme",
+  "dependencies": {
+    "loader-utils": "~0.2.14",
+    "zero-lang": "~0.0.20151202"
+  }
+}
